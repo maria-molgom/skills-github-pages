@@ -2,4 +2,4 @@
 title: Hola!
 ---
 
-Bienvenidos a la actividad pull request
+Bienvenidos a la actividad pages
